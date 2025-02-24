@@ -1,5 +1,5 @@
-## hacker_news
-- This is a quick project to practise some of the technologies listed below.
+# hacker_news
+- This is a quick project to practise API fetch in React and some of the technologies listed below.
 
 # technologies used
 - React + Typescript
